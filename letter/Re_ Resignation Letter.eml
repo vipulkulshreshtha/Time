@@ -1,0 +1,665 @@
+Received: from PN3PR01MB7661.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:ce::6)
+ by PNZPR01MB8089.INDPRD01.PROD.OUTLOOK.COM with HTTPS; Wed, 30 Aug 2023
+ 09:16:10 +0000
+Received: from PN0PR01MB6025.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:60::7)
+ by PN3PR01MB7661.INDPRD01.PROD.OUTLOOK.COM (2603:1096:c01:ce::6) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.6745.20; Wed, 30 Aug
+ 2023 09:16:09 +0000
+Received: from PN0PR01MB6025.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::8238:6c90:83a2:dd84]) by PN0PR01MB6025.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::8238:6c90:83a2:dd84%4]) with mapi id 15.20.6699.035; Wed, 30 Aug 2023
+ 09:16:09 +0000
+From: Chavan Singh Khatana <Chavan.Khatana@coforge.com>
+To: Sarita Talwar <Sarita.Talwar@coforge.com>, Vipul Kulshreshtha
+	<Vipul.1.K@coforge.com>, Ankit Bansal <Ankit.Bansal@coforge.com>, Nitin Arora
+	<Nitin.Arora@coforge.com>
+CC: Suman Kumar Guchhait <Suman.Guchhait@coforge.com>, Kanika Sabharwal
+	<Kanika.Sabharwal@coforge.com>, Manjari Misra <Manjari.Misra@coforge.com>
+Subject: Re: Resignation Letter
+Thread-Topic: Resignation Letter
+Thread-Index: AQHZ1N0fBdCF260o3U+Aormqi5xsPLABIWP0gAFXyEeAABjKc4AACInwgAAAjJk=
+Date: Wed, 30 Aug 2023 09:16:09 +0000
+Message-ID:
+	<PN0PR01MB6025E277AD33F57C388F1D2C85E6A@PN0PR01MB6025.INDPRD01.PROD.OUTLOOK.COM>
+References:
+	<PNZPR01MB80899FA0AEDABD53AD37CB77EC1FA@PNZPR01MB8089.INDPRD01.PROD.OUTLOOK.COM>
+ <PNZPR01MB8089AF91129083BD5385C050ECE7A@PNZPR01MB8089.INDPRD01.PROD.OUTLOOK.COM>
+ <PNZPR01MB80897F244DE6774ABD373E59ECE6A@PNZPR01MB8089.INDPRD01.PROD.OUTLOOK.COM>
+ <PNZPR01MB808960A6940358726E60B2A8ECE6A@PNZPR01MB8089.INDPRD01.PROD.OUTLOOK.COM>
+ <PNXPR01MB6978DED7B0E08FA3A999C3C9EFE6A@PNXPR01MB6978.INDPRD01.PROD.OUTLOOK.COM>
+In-Reply-To:
+	<PNXPR01MB6978DED7B0E08FA3A999C3C9EFE6A@PNXPR01MB6978.INDPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-AuthSource: PN0PR01MB6025.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-Network-Message-Id:
+	03a4ff7f-aa03-4496-45cb-08dba939bf8a
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+X-MS-Exchange-Organization-RecordReviewCfmType: 0
+x-ms-publictraffictype: Email
+x-ms-exchange-crosstenant-id: b727a530-a0d5-4fb8-bd40-d8f9763e97db
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910001)(944506478)(944626604)(920097)(425001)(930097)(140003)(1420103);
+X-Microsoft-Antispam-Message-Info:
+	+01utJvjYGhr4Xx5AKQSs/DFobEMZyPpcMsOyfFy/gxkBK3fVTzBZIB5OkDqum6iABZvQHeKhTgreRS/0zmEPdp3xDoJLwbwTZKQxfxWaoCbfUOwd4HJDh9X8nGpcLX3Lnqt1qLgjXcdXW8b2OmgW5IhDiQLYuhM3wG21bbKZoWOgX7nZ32FRBj1zUZMO76T29F2kcdoyFablXjf6aNNrNf32lUm9LKvEsvBTUIkyKYTtvqBAvq63PsibGX7F5Xb9Mn8TvjaJLb86LgRMcJcrxZHC/bYbsuRQ8kV4JfogXMLAsiRkI+O162+Usp1zCG2mpiE9aaLbIpFcRN8EtPrCkw+EnVSIGiLT8ut9LOTJnLEKBbD59UpgsO5vKj4jhXNMj+IfdmvL0TWG+yX1tcS4WjlkGo76ght9sCb6lICPc5wkGoQ6BEJuBIZ4GrjzCS+LqaYpB6AI4zKd0aEdzLOD48BIrQZ/dn8VQ4u3SUSI4FWNQFu6qNqYockRPXqUjsmRcrjDEnwllZidudBy+f/d3Qqk6jkP35oHUAD+rosN2xZqGgp5h2CKkZqrduI1VRvt4GlRiOvD/YnSpNklrfno1Aw9hlWe37IqfP0SdICyzJY9RFiHHRPjbxv8fGy1PKmt8q4IR6Sa46Zc1resbR4Moy9DDNyza7cbRGbJOtBkZJS6iVjv9JDMEwY+XPNSXs7uiHpS/GyL1lzKMAhKunzTz8esMo1twgf1H5bHLft6ra6EV+4l80dlP9s59acV59N
+Content-Type: multipart/alternative;
+	boundary="_000_PN0PR01MB6025E277AD33F57C388F1D2C85E6APN0PR01MB6025INDP_"
+MIME-Version: 1.0
+
+--_000_PN0PR01MB6025E277AD33F57C388F1D2C85E6APN0PR01MB6025INDP_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Sarita,
+
+Yes, he is ok with paying the bal notice period.
+Basis of your approval proceeding with his LWD as today 30th Aug.
+
+Regards,
+
+
+________________________________
+From: Sarita Talwar <Sarita.Talwar@coforge.com>
+Sent: Wednesday, August 30, 2023 2:43 PM
+To: Vipul Kulshreshtha <Vipul.1.K@coforge.com>; Ankit Bansal <Ankit.Bansal@=
+coforge.com>; Nitin Arora <Nitin.Arora@coforge.com>
+Cc: Chavan Singh Khatana <Chavan.Khatana@coforge.com>; Suman Kumar Guchhait=
+ <Suman.Guchhait@coforge.com>
+Subject: RE: Resignation Letter
+
+
+Chavan,
+
+
+
+Can you please confirm if Vipul has agreed to pay the notice period. In cas=
+e Yes kindly process for early release
+
+
+
+Thanks & Regards
+
+Sarita Talwar
+
+VP - Global Digital Delivery Head - 9818860141
+
+
+
+From: Vipul Kulshreshtha <Vipul.1.K@coforge.com>
+Sent: Wednesday, August 30, 2023 2:16 PM
+To: Ankit Bansal <Ankit.Bansal@coforge.com>; Nitin Arora <Nitin.Arora@cofor=
+ge.com>
+Cc: Chavan Singh Khatana <Chavan.Khatana@coforge.com>; Suman Kumar Guchhait=
+ <Suman.Guchhait@coforge.com>; Sarita Talwar <Sarita.Talwar@coforge.com>
+Subject: Re: Resignation Letter
+
+
+
+Hi sir,
+
+
+
+Referring the trailing mail.
+
+Please give me the approval for today. It's Urgent.
+
+
+
+Thanks,
+
+Vipul
+
+
+
+________________________________
+
+From: Vipul Kulshreshtha <Vipul.1.K@coforge.com<mailto:Vipul.1.K@coforge.co=
+m>>
+Sent: Wednesday, August 30, 2023 12:43 PM
+To: Ankit Bansal <Ankit.Bansal@coforge.com<mailto:Ankit.Bansal@coforge.com>=
+>; Nitin Arora <Nitin.Arora@coforge.com<mailto:Nitin.Arora@coforge.com>>
+Cc: Chavan Singh Khatana <Chavan.Khatana@coforge.com<mailto:Chavan.Khatana@=
+coforge.com>>; Suman Kumar Guchhait <Suman.Guchhait@coforge.com<mailto:Suma=
+n.Guchhait@coforge.com>>; Sarita Talwar <Sarita.Talwar@coforge.com<mailto:S=
+arita.Talwar@coforge.com>>
+Subject: Re: Resignation Letter
+
+
+
+Hi Sir,
+
+
+
+Referring the trailing mail.
+
+
+
+As per discussion with BHR, I am opt-out the payout option.
+
+
+
+So, Please give me the approval for today only on priority.
+
+
+
+Thanks,
+
+Vipul
+
+
+
+________________________________
+
+From: Vipul Kulshreshtha <Vipul.1.K@coforge.com<mailto:Vipul.1.K@coforge.co=
+m>>
+Sent: Tuesday, August 29, 2023 4:41 PM
+To: Ankit Bansal <Ankit.Bansal@coforge.com<mailto:Ankit.Bansal@coforge.com>=
+>; Nitin Arora <Nitin.Arora@coforge.com<mailto:Nitin.Arora@coforge.com>>
+Cc: Chavan Singh Khatana <Chavan.Khatana@coforge.com<mailto:Chavan.Khatana@=
+coforge.com>>; Suman Kumar Guchhait <Suman.Guchhait@coforge.com<mailto:Suma=
+n.Guchhait@coforge.com>>
+Subject: Re: Resignation Letter
+
+
+
+Hi Sir,
+
+
+
+As your suggestion, I have discussed with HR. Can you please give me the ap=
+proval for 30th August 2023?
+
+
+
+Thanks,
+
+Vipul
+
+
+
+________________________________
+
+From: Vipul Kulshreshtha
+Sent: Tuesday, August 22, 2023 4:57 PM
+To: Ankit Bansal <Ankit.Bansal@coforge.com<mailto:Ankit.Bansal@coforge.com>=
+>; Nitin Arora <Nitin.Arora@coforge.com<mailto:Nitin.Arora@coforge.com>>
+Cc: Chavan Singh Khatana <Chavan.Khatana@coforge.com<mailto:Chavan.Khatana@=
+coforge.com>>; Suman Kumar Guchhait <Suman.Guchhait@coforge.com<mailto:Suma=
+n.Guchhait@coforge.com>>
+Subject: Resignation Letter
+
+
+
+Hi Sir,
+
+
+
+I would like to inform you that I am resigning from my position as "Sr. Sof=
+tware Engineer". Thank you for the opportunities for professional and perso=
+nal development that you have provided me during the last 1.4 years. I have=
+ enjoyed working for the company and appreciate the support provided me dur=
+ing my tenure with the company.
+
+
+
+Please acknowledge this email as my official notice of resignation. I have =
+been fortunate to have been a part of "Coforge ltd", and I wish you continu=
+ed success. If I can be of any help during this transition, please let me k=
+now.
+
+
+
+I would request the early release, if possible,  by 30th August 2023.
+
+
+
+Thanks,
+
+Vipul
+
+
+
+Get Outlook for Android<https://ind01.safelinks.protection.outlook.com/?url=
+=3Dhttps%3A%2F%2Faka.ms%2FAAb9ysg&data=3D05%7C01%7CVipul.1.K%40coforge.com%=
+7C03a4ff7faa03449645cb08dba939bf8a%7Cb727a530a0d54fb8bd40d8f9763e97db%7C0%7=
+C0%7C638289837705969534%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjo=
+iV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=3DBo4buhzxo1j=
+k0rZKoh3Wjj1%2FsCViClGMXi2rQ%2FJwSwc%3D&reserved=3D0>
+
+--_000_PN0PR01MB6025E277AD33F57C388F1D2C85E6APN0PR01MB6025INDP_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-8859-=
+1">
+</head>
+<body>
+<div>Hi Sarita,</div>
+<div><br>
+</div>
+<div>Yes, he is ok with paying the bal notice period.</div>
+<div>Basis of your approval proceeding with his LWD as today 30th Aug.</div=
+>
+<div><br>
+</div>
+<div>Regards,</div>
+<br>
+<div></div>
+<br>
+<hr style=3D"display:inline-block;width:98%" tabindex=3D"-1">
+<div id=3D"divRplyFwdMsg" dir=3D"ltr"><font face=3D"Calibri, sans-serif" st=
+yle=3D"font-size:11pt" color=3D"#000000"><b>From:</b> Sarita Talwar &lt;Sar=
+ita.Talwar@coforge.com&gt;<br>
+<b>Sent:</b> Wednesday, August 30, 2023 2:43 PM<br>
+<b>To:</b> Vipul Kulshreshtha &lt;Vipul.1.K@coforge.com&gt;; Ankit Bansal &=
+lt;Ankit.Bansal@coforge.com&gt;; Nitin Arora &lt;Nitin.Arora@coforge.com&gt=
+;<br>
+<b>Cc:</b> Chavan Singh Khatana &lt;Chavan.Khatana@coforge.com&gt;; Suman K=
+umar Guchhait &lt;Suman.Guchhait@coforge.com&gt;<br>
+<b>Subject:</b> RE: Resignation Letter</font>
+<div>&nbsp;</div>
+</div>
+<div lang=3D"EN-US" link=3D"blue" vlink=3D"purple" style=3D"word-wrap:break=
+-word">
+<div class=3D"x_WordSection1">
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+Chavan,</p>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+&nbsp;</p>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+Can you please confirm if Vipul has agreed to pay the notice period. In cas=
+e Yes kindly process for early release</p>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+&nbsp;</p>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"">Thanks &amp; Regards</span></p>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"">Sarita Talwar</span></p>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span lang=3D"EN-GB" style=3D"">VP - Global Digital Delivery Head - 9818860=
+141</span><span style=3D""></span></p>
+</div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+&nbsp;</p>
+<div>
+<div style=3D"border:none; border-top:solid #E1E1E1 1.0pt; padding:3.0pt 0i=
+n 0in 0in">
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<b>From:</b> Vipul Kulshreshtha &lt;Vipul.1.K@coforge.com&gt; <br>
+<b>Sent:</b> Wednesday, August 30, 2023 2:16 PM<br>
+<b>To:</b> Ankit Bansal &lt;Ankit.Bansal@coforge.com&gt;; Nitin Arora &lt;N=
+itin.Arora@coforge.com&gt;<br>
+<b>Cc:</b> Chavan Singh Khatana &lt;Chavan.Khatana@coforge.com&gt;; Suman K=
+umar Guchhait &lt;Suman.Guchhait@coforge.com&gt;; Sarita Talwar &lt;Sarita.=
+Talwar@coforge.com&gt;<br>
+<b>Subject:</b> Re: Resignation Letter</p>
+</div>
+</div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+&nbsp;</p>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">Hi sir,</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;margin-bottom:12.0pt">
+<span class=3D"x_xcontentpasted0"><span style=3D"font-size:12.0pt; font-fam=
+ily:&quot;Aptos&quot;,sans-serif; color:black; background:white">Referring =
+the trailing mail.</span></span><span style=3D"font-size:12.0pt; font-famil=
+y:&quot;Aptos&quot;,sans-serif; color:black"></span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span class=3D"x_contentpasted1"><span style=3D"font-size:12.0pt; font-fami=
+ly:&quot;Aptos&quot;,sans-serif; color:black; background:white">Please give=
+ me the approval for today.&nbsp;</span></span><span style=3D"font-size:12.=
+0pt; font-family:&quot;Aptos&quot;,sans-serif; color:black">It's
+ Urgent.</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">Thanks,
+</span></p>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">Vipul</span></p>
+</div>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div class=3D"x_MsoNormal" align=3D"center" style=3D"margin: 0in; font-size=
+: 11pt; font-family: Calibri, sans-serif;text-align:center">
+<hr size=3D"2" width=3D"98%" align=3D"center">
+</div>
+<div id=3D"x_divRplyFwdMsg">
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<b><span style=3D"color:black">From:</span></b><span style=3D"color:black">=
+ Vipul Kulshreshtha &lt;<a href=3D"mailto:Vipul.1.K@coforge.com">Vipul.1.K@=
+coforge.com</a>&gt;<br>
+<b>Sent:</b> Wednesday, August 30, 2023 12:43 PM<br>
+<b>To:</b> Ankit Bansal &lt;<a href=3D"mailto:Ankit.Bansal@coforge.com">Ank=
+it.Bansal@coforge.com</a>&gt;; Nitin Arora &lt;<a href=3D"mailto:Nitin.Aror=
+a@coforge.com">Nitin.Arora@coforge.com</a>&gt;<br>
+<b>Cc:</b> Chavan Singh Khatana &lt;<a href=3D"mailto:Chavan.Khatana@coforg=
+e.com">Chavan.Khatana@coforge.com</a>&gt;; Suman Kumar Guchhait &lt;<a href=
+=3D"mailto:Suman.Guchhait@coforge.com">Suman.Guchhait@coforge.com</a>&gt;; =
+Sarita Talwar &lt;<a href=3D"mailto:Sarita.Talwar@coforge.com">Sarita.Talwa=
+r@coforge.com</a>&gt;<br>
+<b>Subject:</b> Re: Resignation Letter</span> </p>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+&nbsp;</p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span class=3D"x_xcontentpasted0"><span style=3D"font-size:12.0pt; font-fam=
+ily:&quot;Aptos&quot;,sans-serif; color:black; background:white">Hi Sir,</s=
+pan></span><span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,s=
+ans-serif; color:black"></span></p>
+</div>
+<div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;background:white">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;background:white">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">Referring the trailing mail.</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;background:white">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;background:white">
+<span class=3D"x_xcontentpasted0"><span style=3D"font-size:12.0pt; font-fam=
+ily:&quot;Aptos&quot;,sans-serif; color:black; background:white">As per dis=
+cussion with BHR,&nbsp;</span></span><span style=3D"font-size:12.0pt; font-=
+family:&quot;Aptos&quot;,sans-serif; color:black">I am opt-out
+ the payout option.</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;background:white">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;background:white">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">So, Please give me the approval for today only on priority.</s=
+pan></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;background:white">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;background:white">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">Thanks,</span></p>
+</div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span class=3D"x_xcontentpasted0"><span style=3D"font-size:12.0pt; font-fam=
+ily:&quot;Aptos&quot;,sans-serif; color:black; background:white">Vipul</spa=
+n></span><span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,san=
+s-serif; color:black"></span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div class=3D"x_MsoNormal" align=3D"center" style=3D"margin: 0in; font-size=
+: 11pt; font-family: Calibri, sans-serif;text-align:center">
+<hr size=3D"2" width=3D"98%" align=3D"center">
+</div>
+<div id=3D"x_x_divRplyFwdMsg">
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<b><span style=3D"color:black">From:</span></b><span style=3D"color:black">=
+ Vipul Kulshreshtha &lt;<a href=3D"mailto:Vipul.1.K@coforge.com">Vipul.1.K@=
+coforge.com</a>&gt;<br>
+<b>Sent:</b> Tuesday, August 29, 2023 4:41 PM<br>
+<b>To:</b> Ankit Bansal &lt;<a href=3D"mailto:Ankit.Bansal@coforge.com">Ank=
+it.Bansal@coforge.com</a>&gt;; Nitin Arora &lt;<a href=3D"mailto:Nitin.Aror=
+a@coforge.com">Nitin.Arora@coforge.com</a>&gt;<br>
+<b>Cc:</b> Chavan Singh Khatana &lt;<a href=3D"mailto:Chavan.Khatana@coforg=
+e.com">Chavan.Khatana@coforge.com</a>&gt;; Suman Kumar Guchhait &lt;<a href=
+=3D"mailto:Suman.Guchhait@coforge.com">Suman.Guchhait@coforge.com</a>&gt;<b=
+r>
+<b>Subject:</b> Re: Resignation Letter</span> </p>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+&nbsp;</p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">Hi Sir,</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">As your suggestion, I have discussed with HR. Can you please g=
+ive me the approval for 30<sup>th</sup>&nbsp;August 2023?</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">Thanks,</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">Vipul</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div class=3D"x_MsoNormal" align=3D"center" style=3D"margin: 0in; font-size=
+: 11pt; font-family: Calibri, sans-serif;text-align:center">
+<hr size=3D"2" width=3D"98%" align=3D"center">
+</div>
+<div id=3D"x_x_x_divRplyFwdMsg">
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<b><span style=3D"color:black">From:</span></b><span style=3D"color:black">=
+ Vipul Kulshreshtha<br>
+<b>Sent:</b> Tuesday, August 22, 2023 4:57 PM<br>
+<b>To:</b> Ankit Bansal &lt;<a href=3D"mailto:Ankit.Bansal@coforge.com">Ank=
+it.Bansal@coforge.com</a>&gt;; Nitin Arora &lt;<a href=3D"mailto:Nitin.Aror=
+a@coforge.com">Nitin.Arora@coforge.com</a>&gt;<br>
+<b>Cc:</b> Chavan Singh Khatana &lt;<a href=3D"mailto:Chavan.Khatana@coforg=
+e.com">Chavan.Khatana@coforge.com</a>&gt;; Suman Kumar Guchhait &lt;<a href=
+=3D"mailto:Suman.Guchhait@coforge.com">Suman.Guchhait@coforge.com</a>&gt;<b=
+r>
+<b>Subject:</b> Resignation Letter</span> </p>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+&nbsp;</p>
+</div>
+</div>
+<div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">Hi Sir,</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">I would like to inform you that I am resigning from my positio=
+n as &quot;Sr. Software Engineer&quot;. Thank you for the opportunities for=
+ professional and personal development that you have provided
+ me during the last 1.4 years. I have enjoyed working for the company and a=
+ppreciate the support provided me during my tenure with the company.</span>=
+</p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">Please acknowledge this email as my official notice of resigna=
+tion. I have been fortunate to have been a part of &quot;Coforge ltd&quot;,=
+ and I wish you continued success. If I can be of any
+ help during this transition, please let me know.</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">I would request the early release, if possible,&nbsp; by&nbsp;=
+30th August 2023.</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">&nbsp;</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">Thanks,</span></p>
+</div>
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+<span style=3D"font-size:12.0pt; font-family:&quot;Aptos&quot;,sans-serif; =
+color:black">Vipul</span></p>
+</div>
+<div id=3D"x_x_x_x_ms-outlook-mobile-signature">
+<div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+&nbsp;</p>
+</div>
+<p class=3D"x_MsoNormal" style=3D"margin: 0in; font-size: 11pt; font-family=
+: Calibri, sans-serif;">
+Get <a href=3D"https://ind01.safelinks.protection.outlook.com/?url=3Dhttps%=
+3A%2F%2Faka.ms%2FAAb9ysg&amp;data=3D05%7C01%7CVipul.1.K%40coforge.com%7C03a=
+4ff7faa03449645cb08dba939bf8a%7Cb727a530a0d54fb8bd40d8f9763e97db%7C0%7C0%7C=
+638289837705969534%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2lu=
+MzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=3DBo4buhzxo1jk=
+0rZKoh3Wjj1%2FsCViClGMXi2rQ%2FJwSwc%3D&amp;reserved=3D0" originalsrc=3D"htt=
+ps://aka.ms/AAb9ysg" shash=3D"gTAj3AwpZW8l+TUN7ue1RM2vmZLQZfaZtHeXboot6Nlcy=
+RYuGdmU34L5jGKAddmk7WUaeb3zVv1jQ5MfNsT38NzyFVTBQsYsWgb9cfScYPxrQH0CknSCM0in=
+lQog34GPVJi9DPaSuaNvyAXBQZgC4CaFX2RuT87dbPmC1M2ptKY=3D" data-auth=3D"Verifi=
+ed" originalsrc=3D"https://aka.ms/AAb9ysg" shash=3D"vZbw4rH+9AHtphzWbU85Tp8=
+sbA/7/8w/ROWWnNbX9yiO8IjzEg18w0wqObLery6BbQMQXq+M/d/LURG9wWvC5Gr4A7eqfFG5PV=
+VO9AdFi4pOEDC5+Co+3kTXw8J5aTlAS/+/9g0Nkp/xwmlqFKBQE7thSnxW7RY9GDAmn5Hvhk4=
+=3D">
+Outlook for Android</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>
+
+--_000_PN0PR01MB6025E277AD33F57C388F1D2C85E6APN0PR01MB6025INDP_--
